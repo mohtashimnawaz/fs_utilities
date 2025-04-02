@@ -1,5 +1,5 @@
 [package]
-name = "fs_utils"
+name = "adv_fs_utils"
 version = "0.1.0"
 edition = "2024"
 description = "A comprehensive library for file system operations with progress reporting and advanced search capabilities"
