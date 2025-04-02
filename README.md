@@ -1,4 +1,5 @@
 # fs_utils
+https://crates.io/crates/adv_fs_utils
 
 A high-performance Rust library for file system operations with progress reporting and advanced search capabilities.
 
