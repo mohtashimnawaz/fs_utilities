@@ -14,8 +14,8 @@ keywords = [
 ]
 categories = [
     "filesystem",
-    "utility",
-    "command-line-utilities",
+    "command-line-utilities",  # Instead of "utility"
+    "development-tools",       # Alternative option
 ]
 
 [dependencies]
