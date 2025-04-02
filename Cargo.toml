@@ -5,7 +5,7 @@ edition = "2024"
 description = "A comprehensive library for file system operations with progress reporting and advanced search capabilities"
 authors = ["Mohtashim Nawaz mohtashim3nawaz@gmail.com"]
 license = "MIT"
-repository = ""
+repository = "https://github.com/mohtashimnawaz/fs_utilities"
 keywords = [
     "filesystem",
     "file",
